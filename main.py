@@ -33,7 +33,7 @@ emotion_groups = {
     'Remorse': 'Concerned',
     'Embarrassment': 'Concerned',
     'Surprise': 'Stare',
-    'Sadness': 'Sadness',
+    'Sadness': 'Concerned',
     'Nervousness': 'Concerned'
 }
 
